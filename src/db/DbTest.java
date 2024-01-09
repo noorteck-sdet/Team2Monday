@@ -10,4 +10,9 @@ public class DbTest {
 		System.out.println( 1 + 2);
 		System.out.println(3+3);
 	}
+	
+	
+	public void names () {
+		System.out.println("My name is Zain");
+	}
 }
