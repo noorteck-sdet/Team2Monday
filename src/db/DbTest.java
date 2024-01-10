@@ -16,5 +16,7 @@ public class DbTest {
 		//Fast Push
 		
 		System.out.println("zain was here too...");
+		
+		System.out.println("Again");
 	}
 }
