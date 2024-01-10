@@ -11,21 +11,15 @@ public class Step {
 		System.out.println("State: VA" );
 		System.out.println("City: Reston");
 
+
 		System.out.println("City : Al-Nassrya"); // By Zain
 
 		System.out.println("Reston town Center");
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		System.out.println("New York , Texas ,Virginia,Maryland,Washington DC");     // Hadeel
+	
+		
+		System.out.println("Baghdad,Mousel,Basrah,Erbil");    // Hadeel 
 
 	}
 }
