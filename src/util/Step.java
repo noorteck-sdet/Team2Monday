@@ -14,6 +14,18 @@ public class Step {
 		System.out.println("City : Al-Nassrya"); // By Zain
 
 		System.out.println("Reston town Center");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		System.out.println("New York , Texas ,Virginia,Maryland,Washington DC");     // Hadeel
 
 	}
 }
