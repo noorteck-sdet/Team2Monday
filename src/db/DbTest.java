@@ -12,5 +12,7 @@ public class DbTest {
 		
 		
 		System.out.println("Yahiya was here");
+		
+		//Fast Push
 	}
 }
