@@ -9,5 +9,8 @@ public class DbTest {
 	public void add() {
 		System.out.println( 1 + 2);
 		System.out.println(2-1);
+		
+		
+		System.out.println("Yahiya was here");
 	}
 }
