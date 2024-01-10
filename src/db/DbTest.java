@@ -8,6 +8,9 @@ public class DbTest {
 	
 	public void add() {
 		System.out.println( 1 + 2);
+    
+    System.out.println(3+3);
+
 		System.out.println(2-1);
 		
 		
@@ -18,5 +21,16 @@ public class DbTest {
 		System.out.println("zain was here too...");
 		
 		System.out.println("Again");
+
+		
+
 	}
+	
+	
+	public void names () {
+		System.out.println("My name is Zain");
+		System.out.println("My Name is Hadeel");
+	}
+	
+	// hello
 }
