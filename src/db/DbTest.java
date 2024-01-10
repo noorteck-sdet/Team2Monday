@@ -24,6 +24,7 @@ public class DbTest {
 
 		System.out.println("Yahiya was here again");
 		System.out.println("I don't wanna be here ");
+		System.out.println("it's too cold here");
 
 	}
 	
